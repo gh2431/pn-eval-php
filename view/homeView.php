@@ -10,7 +10,8 @@
 </head>
 <body>
 <div class="form-line">
-     <input type="submit" value="Se connecter" class="login-bouton">
+     <label type="Nom" id="nom">Nom<input>
+     <input type="submit" value="Entrer" class="login-bouton">
 </div>       
     <!-- Créer un formulaire pour récupérer le nom de l'utilisateur connecté -->
 </body>
